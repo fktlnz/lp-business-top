@@ -1,5 +1,6 @@
 # lp-business-top
 ビジネスサイトトップページ（サンプル）
+[デモサイト](http://lp-example-2.masashisite.com/index.html)
 
 ### Install
 
