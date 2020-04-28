@@ -6,7 +6,7 @@
 Clone this repository.
 
 ```shell
-$ git clone git@github.com:sota1235/Party.git
+$ git clone git@github.com:fktlnz/lp-business-top.git
 ```
 
 Build static files.
